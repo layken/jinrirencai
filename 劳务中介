@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-24T04:58:55.715Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="QVsVSRfjdgjx621-jAIt" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-25T01:57:53.569Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="JqyZpBPn1uVtYZg69mPl" version="12.4.3" type="github" pages="1">
   <diagram id="SWYcM2koVF174TYnn-VU" name="海胜模式和海聘加入后模式">
     <mxGraphModel dx="946" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
         <mxCell id="NCzVqfk-XGpWmCkzfThQ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;dashed=1;" edge="1" parent="1" source="NCzVqfk-XGpWmCkzfThQ-1" target="NCzVqfk-XGpWmCkzfThQ-5">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="NCzVqfk-XGpWmCkzfThQ-1" value="海胜" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="NCzVqfk-XGpWmCkzfThQ-1" value="劳务公司" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="390" y="240" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="NCzVqfk-XGpWmCkzfThQ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="NCzVqfk-XGpWmCkzfThQ-5" target="NCzVqfk-XGpWmCkzfThQ-7">
@@ -92,13 +92,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NCzVqfk-XGpWmCkzfThQ-30" value="卫斌" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="NCzVqfk-XGpWmCkzfThQ-30" value="BD2" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="510" y="340" width="30" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="NCzVqfk-XGpWmCkzfThQ-34" value="阿峰胡道海胡雪峰" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="NCzVqfk-XGpWmCkzfThQ-34" value="BD1" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="400" y="340" width="30" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="NCzVqfk-XGpWmCkzfThQ-37" value="小闫石磊" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="NCzVqfk-XGpWmCkzfThQ-37" value="BD3" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="200" y="340" width="30" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="NCzVqfk-XGpWmCkzfThQ-42" value="网络招聘" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
