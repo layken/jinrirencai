@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-07T04:22:47.352Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="gBG1Z2UxAbl-O48xOCju" version="12.4.9" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-07T04:24:11.406Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="K3bkyVRs2jJojshqU4VJ" version="12.4.9" type="github" pages="2">
   <diagram id="2DhSJaCOvhce-CJETL_g" name="运营平台">
     <mxGraphModel dx="946" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,8 +96,8 @@
       <root>
         <mxCell id="eehikJKEpjZ9or6tpOAC-0"/>
         <mxCell id="eehikJKEpjZ9or6tpOAC-1" parent="eehikJKEpjZ9or6tpOAC-0"/>
-        <mxCell id="UBbLgRRD8QyD2yFelB7X-0" value="ATL追踪平台" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontStyle=1" vertex="1" parent="eehikJKEpjZ9or6tpOAC-1">
-          <mxGeometry x="50" y="260" width="140" height="140" as="geometry"/>
+        <mxCell id="UBbLgRRD8QyD2yFelB7X-0" value="渠道/来源管理" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontStyle=1" vertex="1" parent="eehikJKEpjZ9or6tpOAC-1">
+          <mxGeometry x="50" y="80" width="140" height="140" as="geometry"/>
         </mxCell>
         <mxCell id="SRb0sy_VEw0zQ_DMIl9I-2" value="内部推荐二维码" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="eehikJKEpjZ9or6tpOAC-1">
           <mxGeometry x="430" y="270" width="120" height="40" as="geometry"/>
@@ -147,8 +147,22 @@
             <mxPoint x="560" y="450" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SRb0sy_VEw0zQ_DMIl9I-18" value="渠道/来源ID" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="eehikJKEpjZ9or6tpOAC-1">
+        <mxCell id="SRb0sy_VEw0zQ_DMIl9I-18" value="渠道/来源ID" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="eehikJKEpjZ9or6tpOAC-1">
           <mxGeometry x="430" y="100" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="SRb0sy_VEw0zQ_DMIl9I-19" value="ATL追踪平台" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontStyle=1" vertex="1" parent="eehikJKEpjZ9or6tpOAC-1">
+          <mxGeometry x="50" y="270" width="140" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="SRb0sy_VEw0zQ_DMIl9I-20" value="" style="endArrow=classic;html=1;fontSize=18;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="eehikJKEpjZ9or6tpOAC-1" source="UBbLgRRD8QyD2yFelB7X-0" target="SRb0sy_VEw0zQ_DMIl9I-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="220" as="sourcePoint"/>
+            <mxPoint x="280" y="170" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SRb0sy_VEw0zQ_DMIl9I-21" value="分配" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=18;" vertex="1" connectable="0" parent="SRb0sy_VEw0zQ_DMIl9I-20">
+          <mxGeometry x="0.3671" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
