@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-07T04:29:11.999Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="K3XjjMc13MK8u4t10Bjc" version="12.4.9" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-07T04:29:53.999Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="lRT4m9iPieP3tw1EaExF" version="12.4.9" type="github" pages="2">
   <diagram id="2DhSJaCOvhce-CJETL_g" name="运营平台">
     <mxGraphModel dx="946" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,7 +111,7 @@
         <mxCell id="SRb0sy_VEw0zQ_DMIl9I-5" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fontSize=18;" vertex="1" parent="eehikJKEpjZ9or6tpOAC-1">
           <mxGeometry x="767" y="290" width="60" height="100" as="geometry"/>
         </mxCell>
-        <mxCell id="SRb0sy_VEw0zQ_DMIl9I-8" value="官网二维码" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="eehikJKEpjZ9or6tpOAC-1">
+        <mxCell id="SRb0sy_VEw0zQ_DMIl9I-8" value="供应商推荐二维码" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="eehikJKEpjZ9or6tpOAC-1">
           <mxGeometry x="487" y="340" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="SRb0sy_VEw0zQ_DMIl9I-10" value="百度搜索追踪码" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="eehikJKEpjZ9or6tpOAC-1">
