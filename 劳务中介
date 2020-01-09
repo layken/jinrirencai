@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-09T10:02:17.082Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="dnb0UR2UowIriTg4Hv0G" version="12.4.9" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-09T10:03:16.530Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="N4Rso2xKpGVvZ7kcRKPo" version="12.4.9" type="github" pages="2">
   <diagram id="SWYcM2koVF174TYnn-VU" name="海聘">
     <mxGraphModel dx="1113" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -148,7 +148,7 @@
         <mxCell id="61pjHFVGc09r8XijG3ne-10" value="工人" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="lriJqZ6DwNNUYERmJBAv-1">
           <mxGeometry x="400" y="680" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="61pjHFVGc09r8XijG3ne-39" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;fontSize=18;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="lriJqZ6DwNNUYERmJBAv-1" source="61pjHFVGc09r8XijG3ne-36" target="61pjHFVGc09r8XijG3ne-8">
+        <mxCell id="61pjHFVGc09r8XijG3ne-39" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;fontSize=18;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="lriJqZ6DwNNUYERmJBAv-1" source="61pjHFVGc09r8XijG3ne-36" target="61pjHFVGc09r8XijG3ne-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="540" as="targetPoint"/>
           </mxGeometry>
