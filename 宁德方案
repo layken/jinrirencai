@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-09T07:55:38.824Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="rl6f-rQIhtuI3XZKMqC_" version="12.4.9" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-09T09:27:38.914Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="55NInJN_HRrxWqwXJzFp" version="12.4.9" type="github" pages="3">
   <diagram id="2DhSJaCOvhce-CJETL_g" name="运营平台">
-    <mxGraphModel dx="1186" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="945" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -92,7 +92,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0PV06FfgfUXhwRTT3Hfl" name="追踪平台">
-    <mxGraphModel dx="2222" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1939" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="eehikJKEpjZ9or6tpOAC-0"/>
         <mxCell id="eehikJKEpjZ9or6tpOAC-1" parent="eehikJKEpjZ9or6tpOAC-0"/>
@@ -283,6 +283,14 @@
         <mxCell id="SRb0sy_VEw0zQ_DMIl9I-47" value="老用户及不加追踪用户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="eehikJKEpjZ9or6tpOAC-1">
           <mxGeometry x="-340" y="140" width="120" height="40" as="geometry"/>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xIt1zBJ--MMqAN176Xmo" name="Page-3">
+    <mxGraphModel dx="945" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="bNGuJlHn0wfQAZEJ_-N5-0"/>
+        <mxCell id="bNGuJlHn0wfQAZEJ_-N5-1" parent="bNGuJlHn0wfQAZEJ_-N5-0"/>
       </root>
     </mxGraphModel>
   </diagram>
