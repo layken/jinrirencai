@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-09T10:56:03.898Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="ghg6BbJI9IoqyTP8Ef6Z" version="12.4.9" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-09T10:56:27.891Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="fH4GsC45UM0aB6uBAfr0" version="12.4.9" type="github" pages="2">
   <diagram id="SWYcM2koVF174TYnn-VU" name="海聘">
     <mxGraphModel dx="1113" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -276,43 +276,43 @@
         </mxCell>
         <mxCell id="ucUEovWAwcNN5JflGOzm-14" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;strokeColor=#d79b00;strokeWidth=3;gradientColor=#ffa500;fillColor=#ffcd28;" edge="1" parent="lriJqZ6DwNNUYERmJBAv-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="949.9999999999998" y="790" as="sourcePoint"/>
-            <mxPoint x="1030" y="790" as="targetPoint"/>
+            <mxPoint x="739.9999999999998" y="790" as="sourcePoint"/>
+            <mxPoint x="820" y="790" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="ucUEovWAwcNN5JflGOzm-15" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" edge="1" parent="lriJqZ6DwNNUYERmJBAv-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="950" y="820" as="sourcePoint"/>
-            <mxPoint x="1030" y="820" as="targetPoint"/>
+            <mxPoint x="740" y="820" as="sourcePoint"/>
+            <mxPoint x="820" y="820" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="ucUEovWAwcNN5JflGOzm-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fillColor=#cce5ff;strokeColor=#36393d;strokeWidth=3;elbow=vertical;curved=1;" edge="1" parent="lriJqZ6DwNNUYERmJBAv-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="950" y="850" as="sourcePoint"/>
-            <mxPoint x="1020" y="850" as="targetPoint"/>
+            <mxPoint x="740" y="850" as="sourcePoint"/>
+            <mxPoint x="810" y="850" as="targetPoint"/>
             <Array as="points">
-              <mxPoint x="1010" y="850"/>
-              <mxPoint x="1010" y="850"/>
+              <mxPoint x="800" y="850"/>
+              <mxPoint x="800" y="850"/>
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ucUEovWAwcNN5JflGOzm-19" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;fontSize=18;dashed=1;" edge="1" parent="lriJqZ6DwNNUYERmJBAv-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="960" y="880" as="sourcePoint"/>
-            <mxPoint x="1020" y="880" as="targetPoint"/>
+            <mxPoint x="750" y="880" as="sourcePoint"/>
+            <mxPoint x="810" y="880" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="ucUEovWAwcNN5JflGOzm-20" value="平台模式，和古玥云合作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=18;" vertex="1" parent="lriJqZ6DwNNUYERmJBAv-1">
-          <mxGeometry x="1050" y="780" width="230" height="20" as="geometry"/>
+          <mxGeometry x="840" y="780" width="230" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="ucUEovWAwcNN5JflGOzm-21" value="平台模式，和一级代理兼容自己模式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=18;" vertex="1" parent="lriJqZ6DwNNUYERmJBAv-1">
-          <mxGeometry x="1050" y="808" width="290" height="20" as="geometry"/>
+          <mxGeometry x="840" y="808" width="290" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="ucUEovWAwcNN5JflGOzm-22" value="代企业运营模式：ATL合作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=18;" vertex="1" parent="lriJqZ6DwNNUYERmJBAv-1">
-          <mxGeometry x="1050" y="840" width="290" height="20" as="geometry"/>
+          <mxGeometry x="840" y="840" width="290" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="ucUEovWAwcNN5JflGOzm-23" value="现在模式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=18;" vertex="1" parent="lriJqZ6DwNNUYERmJBAv-1">
-          <mxGeometry x="1050" y="860" width="290" height="20" as="geometry"/>
+          <mxGeometry x="840" y="860" width="290" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
