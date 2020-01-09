@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-09T10:20:38.303Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="2bRKePS9uM9YIxZfeKiS" version="12.4.9" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-09T10:20:55.792Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="ynq7lEz39hve45OLwG-Z" version="12.4.9" type="github" pages="2">
   <diagram id="SWYcM2koVF174TYnn-VU" name="海聘">
     <mxGraphModel dx="1113" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -308,7 +308,7 @@
         <mxCell id="ucUEovWAwcNN5JflGOzm-21" value="平台模式，和一级代理兼容自己模式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=18;" vertex="1" parent="lriJqZ6DwNNUYERmJBAv-1">
           <mxGeometry x="1050" y="808" width="290" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="ucUEovWAwcNN5JflGOzm-22" value="代企业运营模式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=18;" vertex="1" parent="lriJqZ6DwNNUYERmJBAv-1">
+        <mxCell id="ucUEovWAwcNN5JflGOzm-22" value="代企业运营模式：ATL合作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=18;" vertex="1" parent="lriJqZ6DwNNUYERmJBAv-1">
           <mxGeometry x="1050" y="840" width="290" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="ucUEovWAwcNN5JflGOzm-23" value="现在模式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=18;" vertex="1" parent="lriJqZ6DwNNUYERmJBAv-1">
