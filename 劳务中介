@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-09T10:06:30.428Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="5ytnoGTyhjUeROXWXcDW" version="12.4.9" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-09T10:06:41.629Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="Bq8QQ9b2VVe3GettpzVY" version="12.4.9" type="github" pages="2">
   <diagram id="SWYcM2koVF174TYnn-VU" name="海聘">
     <mxGraphModel dx="1113" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -165,7 +165,7 @@
         <mxCell id="61pjHFVGc09r8XijG3ne-13" value="学校" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="lriJqZ6DwNNUYERmJBAv-1">
           <mxGeometry x="220" y="680" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="61pjHFVGc09r8XijG3ne-15" value="海聘" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="lriJqZ6DwNNUYERmJBAv-1">
+        <mxCell id="61pjHFVGc09r8XijG3ne-15" value="海聘平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="lriJqZ6DwNNUYERmJBAv-1">
           <mxGeometry x="630" y="300" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="61pjHFVGc09r8XijG3ne-16" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" edge="1" parent="lriJqZ6DwNNUYERmJBAv-1" source="61pjHFVGc09r8XijG3ne-15" target="61pjHFVGc09r8XijG3ne-6">
