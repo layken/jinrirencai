@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-09T07:11:13.531Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="v0GmQYZHl4NqS-S3_asa" version="12.4.9" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-01-09T07:19:12.564Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="8Q4h-zxqvHaPhwThBwRY" version="12.4.9" type="github" pages="2">
   <diagram id="2DhSJaCOvhce-CJETL_g" name="运营平台">
-    <mxGraphModel dx="945" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -282,43 +282,6 @@
         </mxCell>
         <mxCell id="SRb0sy_VEw0zQ_DMIl9I-47" value="老用户及不加追踪用户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="eehikJKEpjZ9or6tpOAC-1">
           <mxGeometry x="-340" y="140" width="120" height="40" as="geometry"/>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="35-Ht9k3G7zCNorHPx8a" name="Page-3">
-    <mxGraphModel dx="705" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="-slYdWaE9BtUHGxlVjrN-0"/>
-        <mxCell id="-slYdWaE9BtUHGxlVjrN-1" parent="-slYdWaE9BtUHGxlVjrN-0"/>
-        <mxCell id="Fp8OjTAx9yKDfb8o1jQt-0" value="工厂" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;" vertex="1" parent="-slYdWaE9BtUHGxlVjrN-1">
-          <mxGeometry x="310" y="60" width="80" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="Fp8OjTAx9yKDfb8o1jQt-1" value="海聘" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;" vertex="1" parent="-slYdWaE9BtUHGxlVjrN-1">
-          <mxGeometry x="520" y="340" width="80" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="Fp8OjTAx9yKDfb8o1jQt-2" value="税局" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="-slYdWaE9BtUHGxlVjrN-1">
-          <mxGeometry x="290" y="220" width="100" height="100" as="geometry"/>
-        </mxCell>
-        <mxCell id="Fp8OjTAx9yKDfb8o1jQt-3" value="古玥云" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;" vertex="1" parent="-slYdWaE9BtUHGxlVjrN-1">
-          <mxGeometry x="120" y="340" width="80" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="Fp8OjTAx9yKDfb8o1jQt-4" value="" style="endArrow=classic;html=1;fontSize=18;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="-slYdWaE9BtUHGxlVjrN-1" source="Fp8OjTAx9yKDfb8o1jQt-0" target="Fp8OjTAx9yKDfb8o1jQt-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="490" as="sourcePoint"/>
-            <mxPoint x="170" y="440" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Fp8OjTAx9yKDfb8o1jQt-5" value="1亿" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=18;" vertex="1" connectable="0" parent="Fp8OjTAx9yKDfb8o1jQt-4">
-          <mxGeometry x="-0.0699" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Fp8OjTAx9yKDfb8o1jQt-6" value="9000万" style="endArrow=classic;html=1;fontSize=18;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="-slYdWaE9BtUHGxlVjrN-1" source="Fp8OjTAx9yKDfb8o1jQt-1" target="Fp8OjTAx9yKDfb8o1jQt-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="388.28427124746213" y="138.28427124746213" as="sourcePoint"/>
-            <mxPoint x="541.7157287525379" y="361.71572875253787" as="targetPoint"/>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
