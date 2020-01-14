@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-14T14:10:11.467Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="1vb0kU80PwIVVvCTejZ1" version="12.4.9" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-01-14T14:27:53.445Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="bRlMdmA8boHUkWqY60aK" version="12.4.9" type="github" pages="4">
   <diagram id="2DhSJaCOvhce-CJETL_g" name="运营平台">
     <mxGraphModel dx="1398" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -287,7 +287,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xIt1zBJ--MMqAN176Xmo" name="校企合作">
-    <mxGraphModel dx="1351" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2404" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bNGuJlHn0wfQAZEJ_-N5-0"/>
         <mxCell id="bNGuJlHn0wfQAZEJ_-N5-1" parent="bNGuJlHn0wfQAZEJ_-N5-0"/>
@@ -298,16 +298,10 @@
           <mxGeometry x="600" y="200" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="fhelPmoxfxCgqia0ca5E-5" value="政府" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=18;strokeColor=#6c8ebf;" vertex="1" parent="bNGuJlHn0wfQAZEJ_-N5-1">
-          <mxGeometry x="360" y="60" width="120" height="60" as="geometry"/>
+          <mxGeometry x="353.29" y="100" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="fhelPmoxfxCgqia0ca5E-6" value="今日人才" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=18;strokeColor=#6c8ebf;" vertex="1" parent="bNGuJlHn0wfQAZEJ_-N5-1">
           <mxGeometry x="360" y="350" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="fhelPmoxfxCgqia0ca5E-8" value="员工" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=18;strokeColor=#6c8ebf;" vertex="1" parent="bNGuJlHn0wfQAZEJ_-N5-1">
-          <mxGeometry x="120" y="480" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="fhelPmoxfxCgqia0ca5E-9" value="社会工" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=18;strokeColor=#82b366;" vertex="1" parent="bNGuJlHn0wfQAZEJ_-N5-1">
-          <mxGeometry x="560" y="440" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="fhelPmoxfxCgqia0ca5E-10" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;fontSize=18;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="bNGuJlHn0wfQAZEJ_-N5-1" source="fhelPmoxfxCgqia0ca5E-2" target="fhelPmoxfxCgqia0ca5E-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -320,6 +314,15 @@
             <mxPoint x="190.00000000000023" y="270" as="sourcePoint"/>
             <mxPoint x="369.9999999999998" y="390" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_zVqz6Ir20KjJi5-p4s8-1" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#E6E6E6;fontSize=18;" vertex="1" parent="bNGuJlHn0wfQAZEJ_-N5-1">
+          <mxGeometry x="-100" y="200" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="_zVqz6Ir20KjJi5-p4s8-2" value="社会工" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#E6E6E6;fontSize=18;" vertex="1" parent="bNGuJlHn0wfQAZEJ_-N5-1">
+          <mxGeometry x="397.71" y="554" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="_zVqz6Ir20KjJi5-p4s8-3" value="员工" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#E6E6E6;fontSize=18;" vertex="1" parent="bNGuJlHn0wfQAZEJ_-N5-1">
+          <mxGeometry x="50" y="870" width="30" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
