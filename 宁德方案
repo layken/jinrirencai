@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-14T23:28:53.164Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="0b9-9IXhV_G7QX5sNjVX" version="12.4.9" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-01-14T23:31:51.057Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="Daxj7Vn1EfBagd2PbiGt" version="12.4.9" type="github" pages="4">
   <diagram id="2DhSJaCOvhce-CJETL_g" name="运营平台">
     <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -395,13 +395,49 @@
           <mxGeometry x="170" y="77" width="250" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="w-eUkLXSA5k9IQhPw3Jo-19" value="内部员工" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#CCCCCC;fillColor=#E6E6E6;gradientColor=none;fontSize=14;" vertex="1" parent="MB1Zx6Nra0RnnN2gcPa3-1">
-          <mxGeometry x="530" y="97" width="30" height="60" as="geometry"/>
+          <mxGeometry x="530" y="107" width="30" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="w-eUkLXSA5k9IQhPw3Jo-20" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;fontSize=23;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="MB1Zx6Nra0RnnN2gcPa3-1" source="w-eUkLXSA5k9IQhPw3Jo-7" target="w-eUkLXSA5k9IQhPw3Jo-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="230" as="sourcePoint"/>
             <mxPoint x="160" y="180" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="w-eUkLXSA5k9IQhPw3Jo-21" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;fontSize=23;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="MB1Zx6Nra0RnnN2gcPa3-1" source="w-eUkLXSA5k9IQhPw3Jo-19" target="w-eUkLXSA5k9IQhPw3Jo-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="454.5" y="253" as="sourcePoint"/>
+            <mxPoint x="454.5" y="170" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YQ5qKkyQ3GpGeLrdyAXs-0" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="MB1Zx6Nra0RnnN2gcPa3-1">
+          <mxGeometry x="170" y="530" width="500" height="240" as="geometry"/>
+        </mxCell>
+        <mxCell id="YQ5qKkyQ3GpGeLrdyAXs-1" value="微信公众号&lt;br style=&quot;font-size: 14px;&quot;&gt;信息、报名、报到、体检、转介绍等统一入口" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="MB1Zx6Nra0RnnN2gcPa3-1">
+          <mxGeometry x="363" y="660" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="YQ5qKkyQ3GpGeLrdyAXs-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="MB1Zx6Nra0RnnN2gcPa3-1" source="YQ5qKkyQ3GpGeLrdyAXs-3" target="YQ5qKkyQ3GpGeLrdyAXs-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="YQ5qKkyQ3GpGeLrdyAXs-3" value="品牌影响力&lt;br style=&quot;font-size: 14px;&quot;&gt;（官网、百家号、微博、头条）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="MB1Zx6Nra0RnnN2gcPa3-1">
+          <mxGeometry x="190" y="660" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="YQ5qKkyQ3GpGeLrdyAXs-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="MB1Zx6Nra0RnnN2gcPa3-1" source="YQ5qKkyQ3GpGeLrdyAXs-5" target="YQ5qKkyQ3GpGeLrdyAXs-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="YQ5qKkyQ3GpGeLrdyAXs-5" value="IP打造&lt;br style=&quot;font-size: 14px;&quot;&gt;（抖音、快手）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="MB1Zx6Nra0RnnN2gcPa3-1">
+          <mxGeometry x="540" y="660" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="YQ5qKkyQ3GpGeLrdyAXs-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="MB1Zx6Nra0RnnN2gcPa3-1" source="YQ5qKkyQ3GpGeLrdyAXs-7" target="YQ5qKkyQ3GpGeLrdyAXs-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="YQ5qKkyQ3GpGeLrdyAXs-7" value="招聘渠道&lt;br style=&quot;font-size: 14px;&quot;&gt;（猎聘、58、英才网等）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=14;" vertex="1" parent="MB1Zx6Nra0RnnN2gcPa3-1">
+          <mxGeometry x="363" y="540" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="YQ5qKkyQ3GpGeLrdyAXs-8" value="ATL&lt;br&gt;运营平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="MB1Zx6Nra0RnnN2gcPa3-1">
+          <mxGeometry x="180" y="550" width="90" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="YQ5qKkyQ3GpGeLrdyAXs-9" value="ATL人才大数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="MB1Zx6Nra0RnnN2gcPa3-1">
+          <mxGeometry x="175" y="265" width="150" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
