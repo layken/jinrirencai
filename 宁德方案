@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-15T06:59:34.633Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="s6SkmQpPrEU-0Vf__LuD" version="12.4.9" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-01-15T07:02:12.676Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="LVaz5UyTuXiQEtke5phL" version="12.4.9" type="github" pages="5">
   <diagram id="2DhSJaCOvhce-CJETL_g" name="运营平台">
     <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -633,6 +633,9 @@
       <root>
         <mxCell id="0B3SoppchGqJ-i1gPJrA-0"/>
         <mxCell id="0B3SoppchGqJ-i1gPJrA-1" parent="0B3SoppchGqJ-i1gPJrA-0"/>
+        <mxCell id="0B3SoppchGqJ-i1gPJrA-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="0B3SoppchGqJ-i1gPJrA-1">
+          <mxGeometry x="200" y="70" width="400" height="240" as="geometry"/>
+        </mxCell>
         <mxCell id="0B3SoppchGqJ-i1gPJrA-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#006EAF;fillColor=#1ba1e2;fontSize=16;fontColor=#ffffff;" vertex="1" parent="0B3SoppchGqJ-i1gPJrA-1">
           <mxGeometry x="350" y="80" width="30" height="60" as="geometry"/>
         </mxCell>
@@ -665,6 +668,9 @@
         </mxCell>
         <mxCell id="0B3SoppchGqJ-i1gPJrA-15" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=16;fontColor=#ffffff;" vertex="1" parent="0B3SoppchGqJ-i1gPJrA-1">
           <mxGeometry x="540" y="220" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0B3SoppchGqJ-i1gPJrA-17" value="新媒体运营团队" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="0B3SoppchGqJ-i1gPJrA-1">
+          <mxGeometry x="215" y="90" width="75" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
