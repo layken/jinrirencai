@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-15T14:31:50.736Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="2f5Z_6JZpzTXorA1Ioo9" version="12.4.9" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-01-15T14:32:48.586Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="79I2OC4gEUA-LUR0dmrL" version="12.4.9" type="github" pages="5">
   <diagram id="2DhSJaCOvhce-CJETL_g" name="运营平台">
     <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -319,7 +319,7 @@
             <mxPoint x="463.28999999999996" y="240" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OgiHtXg3WtPInnkBQthi-23" value="6 工作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=16;" vertex="1" connectable="0" parent="OgiHtXg3WtPInnkBQthi-20">
+        <mxCell id="OgiHtXg3WtPInnkBQthi-23" value="7 工作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=16;" vertex="1" connectable="0" parent="OgiHtXg3WtPInnkBQthi-20">
           <mxGeometry x="0.6288" y="-1" relative="1" as="geometry">
             <mxPoint x="-79.29" y="-0.17" as="offset"/>
           </mxGeometry>
@@ -388,7 +388,7 @@
             <mxPoint x="348.28999999999996" y="100" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OgiHtXg3WtPInnkBQthi-28" value="5 注册" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=16;" vertex="1" connectable="0" parent="OgiHtXg3WtPInnkBQthi-27">
+        <mxCell id="OgiHtXg3WtPInnkBQthi-28" value="6 注册" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=16;" vertex="1" connectable="0" parent="OgiHtXg3WtPInnkBQthi-27">
           <mxGeometry x="0.0735" relative="1" as="geometry">
             <mxPoint y="1" as="offset"/>
           </mxGeometry>
@@ -403,7 +403,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OgiHtXg3WtPInnkBQthi-31" value="7 授课" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=16;" vertex="1" connectable="0" parent="OgiHtXg3WtPInnkBQthi-30">
+        <mxCell id="OgiHtXg3WtPInnkBQthi-31" value="8 授课" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=16;" vertex="1" connectable="0" parent="OgiHtXg3WtPInnkBQthi-30">
           <mxGeometry x="-0.0943" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
