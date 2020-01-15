@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-15T02:44:41.546Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="JH5Ar1ajVP_tNotGtUXx" version="12.4.9" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-01-15T02:48:20.375Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="N0kiDsTzNqOcgpxx4_3j" version="12.4.9" type="github" pages="4">
   <diagram id="2DhSJaCOvhce-CJETL_g" name="运营平台">
     <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -406,6 +406,44 @@
         <mxCell id="OgiHtXg3WtPInnkBQthi-31" value="7 授课" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=16;" vertex="1" connectable="0" parent="OgiHtXg3WtPInnkBQthi-30">
           <mxGeometry x="-0.0943" relative="1" as="geometry">
             <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OgiHtXg3WtPInnkBQthi-32" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;fontSize=22;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="bNGuJlHn0wfQAZEJ_-N5-1" source="fhelPmoxfxCgqia0ca5E-5" target="fhelPmoxfxCgqia0ca5E-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="99" y="220" as="sourcePoint"/>
+            <mxPoint x="348.28999999999996" y="100" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OgiHtXg3WtPInnkBQthi-33" value="9 发放生源津贴" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=16;" vertex="1" connectable="0" parent="OgiHtXg3WtPInnkBQthi-32">
+          <mxGeometry x="0.0735" relative="1" as="geometry">
+            <mxPoint x="-11.83" y="-20.73" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OgiHtXg3WtPInnkBQthi-34" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;fontSize=16;exitX=0;exitY=0.133;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="bNGuJlHn0wfQAZEJ_-N5-1" source="fhelPmoxfxCgqia0ca5E-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="393.28999999999996" y="249.93499458288193" as="sourcePoint"/>
+            <mxPoint x="376" y="208" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OgiHtXg3WtPInnkBQthi-35" value="6 工作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=16;" vertex="1" connectable="0" parent="OgiHtXg3WtPInnkBQthi-34">
+          <mxGeometry x="0.6288" y="-1" relative="1" as="geometry">
+            <mxPoint x="-79.29" y="-0.17" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OgiHtXg3WtPInnkBQthi-36" value="10 发送学费" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=16;" vertex="1" connectable="0" parent="OgiHtXg3WtPInnkBQthi-34">
+          <mxGeometry x="-0.1786" y="3" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OgiHtXg3WtPInnkBQthi-37" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;fontSize=22;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="bNGuJlHn0wfQAZEJ_-N5-1" source="fhelPmoxfxCgqia0ca5E-3" target="fhelPmoxfxCgqia0ca5E-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="270" as="sourcePoint"/>
+            <mxPoint x="438.28999999999996" y="430" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OgiHtXg3WtPInnkBQthi-38" value="&lt;font style=&quot;font-size: 16px&quot;&gt;11 招工费用&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=16;" vertex="1" connectable="0" parent="OgiHtXg3WtPInnkBQthi-37">
+          <mxGeometry x="-0.2636" y="3" relative="1" as="geometry">
+            <mxPoint x="34.52" y="6.63" as="offset"/>
           </mxGeometry>
         </mxCell>
       </root>
