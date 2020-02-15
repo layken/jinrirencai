@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-15T11:28:06.744Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="gyrcCWWSVGQrbyvrnyua" version="12.7.0" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-02-15T16:04:48.482Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="8t2IJlMXt8pI-syQhtPX" version="12.7.0" type="github" pages="5">
   <diagram id="SWYcM2koVF174TYnn-VU" name="海聘">
     <mxGraphModel dx="946" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -419,6 +419,9 @@
         </mxCell>
         <mxCell id="N5DaJfLi50b7D3L24r_D-0" value="工人" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;align=center;" parent="EfGpaEFlnGB75iuzG09--1" vertex="1">
           <mxGeometry x="620" y="180" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Gnogju5PDmXUEzRq-XfT-0" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="EfGpaEFlnGB75iuzG09--1">
+          <mxGeometry x="541" y="216" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
