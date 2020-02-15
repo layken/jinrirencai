@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-15T05:32:11.389Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="fTgqfZNhl-wxsyi4vPPs" version="12.7.0" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-02-15T05:39:08.801Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="p21vSyRTKP5SjyfGxgH4" version="12.7.0" type="github" pages="4">
   <diagram id="SWYcM2koVF174TYnn-VU" name="海聘">
     <mxGraphModel dx="946" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -346,10 +346,10 @@
         <mxCell id="6ebC-BuFitKPiaqQiQz6-1" value="贵阳今日人才" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="5igVClGA2nr5b0qWqUb--1" vertex="1">
           <mxGeometry x="240" y="170" width="120" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="6ebC-BuFitKPiaqQiQz6-32" value="猎头服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="5igVClGA2nr5b0qWqUb--1" vertex="1">
+        <mxCell id="6ebC-BuFitKPiaqQiQz6-32" value="猎寻部" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="5igVClGA2nr5b0qWqUb--1" vertex="1">
           <mxGeometry x="240" y="260" width="120" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="6ebC-BuFitKPiaqQiQz6-29" value="培训业务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="5igVClGA2nr5b0qWqUb--1" vertex="1">
+        <mxCell id="6ebC-BuFitKPiaqQiQz6-29" value="培训部" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="5igVClGA2nr5b0qWqUb--1" vertex="1">
           <mxGeometry x="80" y="260" width="120" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="6ebC-BuFitKPiaqQiQz6-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="5igVClGA2nr5b0qWqUb--1" source="6ebC-BuFitKPiaqQiQz6-5" target="6ebC-BuFitKPiaqQiQz6-6" edge="1">
@@ -388,7 +388,7 @@
         <mxCell id="6ebC-BuFitKPiaqQiQz6-42" value="县代理：招人组织，作为最终招人的最小单元，具备招人的各种功能，门牌、装修、服务、系统" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="5igVClGA2nr5b0qWqUb--1" vertex="1">
           <mxGeometry x="760" y="470" width="210" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="S4K6hd0ELC8o9dcMKUPT-0" value="蓝领业务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5igVClGA2nr5b0qWqUb--1">
+        <mxCell id="S4K6hd0ELC8o9dcMKUPT-0" value="蓝领部" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5igVClGA2nr5b0qWqUb--1">
           <mxGeometry x="400" y="260" width="120" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="S4K6hd0ELC8o9dcMKUPT-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5igVClGA2nr5b0qWqUb--1" source="6ebC-BuFitKPiaqQiQz6-1" target="S4K6hd0ELC8o9dcMKUPT-0">
