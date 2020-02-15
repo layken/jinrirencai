@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-15T11:27:29.005Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="FPquCC2ctoalvl5HFH3J" version="12.7.0" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-02-15T11:28:06.744Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="gyrcCWWSVGQrbyvrnyua" version="12.7.0" type="github" pages="5">
   <diagram id="SWYcM2koVF174TYnn-VU" name="海聘">
     <mxGraphModel dx="946" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -318,7 +318,7 @@
           </mxGraphModel>
       </diagram>
   <diagram id="pjc3T9rgZB9D7t1we9DZ" name="贵州代理-组织结构">
-    <mxGraphModel dx="946" dy="559" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="568" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5igVClGA2nr5b0qWqUb--0"/>
         <mxCell id="5igVClGA2nr5b0qWqUb--1" parent="5igVClGA2nr5b0qWqUb--0"/>
@@ -419,12 +419,6 @@
         </mxCell>
         <mxCell id="N5DaJfLi50b7D3L24r_D-0" value="工人" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;align=center;" parent="EfGpaEFlnGB75iuzG09--1" vertex="1">
           <mxGeometry x="620" y="180" width="30" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="7Rjr4Lbal78LOVUQi3Tu-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="EfGpaEFlnGB75iuzG09--1">
-          <mxGeometry x="342" y="286" width="40" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="7Rjr4Lbal78LOVUQi3Tu-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="EfGpaEFlnGB75iuzG09--1">
-          <mxGeometry x="331" y="292" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
