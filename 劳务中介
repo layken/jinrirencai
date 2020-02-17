@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-17T11:24:40.834Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="NwpV5QbBLoOO2RUXwD_-" version="12.7.0" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-02-17T11:26:19.813Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="Zh-ezsMygVDsiXpX5Idk" version="12.7.0" type="github" pages="9">
   <diagram id="SWYcM2koVF174TYnn-VU" name="海聘">
     <mxGraphModel dx="946" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -937,7 +937,7 @@
           <mxGeometry x="730" y="476" width="60" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-13" value="广告追踪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
-          <mxGeometry x="730" y="524" width="60" height="111" as="geometry"/>
+          <mxGeometry x="730" y="524" width="60" height="156" as="geometry"/>
         </mxCell>
         <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-14" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.108;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="zqXpN9PVNnysMXtOgBtB-1" source="WDJ4V5Xe79Q_eSl3a1zP-6" target="WDJ4V5Xe79Q_eSl3a1zP-13">
           <mxGeometry relative="1" as="geometry">
@@ -945,7 +945,7 @@
             <mxPoint x="730" y="535.5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-55" value="记录数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="WDJ4V5Xe79Q_eSl3a1zP-14">
+        <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-55" value="发送记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="WDJ4V5Xe79Q_eSl3a1zP-14">
           <mxGeometry x="-0.0727" y="4" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
@@ -992,8 +992,8 @@
             <mxPoint x="50" y="740" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-36" value="获取用户手机号码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
-          <mxGeometry x="210" y="533" width="110" height="20" as="geometry"/>
+        <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-36" value="用户手机号码、微信信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="190" y="533" width="150" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-48" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="zqXpN9PVNnysMXtOgBtB-1" source="WDJ4V5Xe79Q_eSl3a1zP-39" target="WDJ4V5Xe79Q_eSl3a1zP-46">
           <mxGeometry relative="1" as="geometry">
@@ -1034,6 +1034,23 @@
         </mxCell>
         <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-52" value="录入系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
           <mxGeometry x="230" y="634" width="50" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-56" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="zqXpN9PVNnysMXtOgBtB-1" source="WDJ4V5Xe79Q_eSl3a1zP-49" target="WDJ4V5Xe79Q_eSl3a1zP-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="608" as="sourcePoint"/>
+            <mxPoint x="160" y="608" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-58" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.811;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="zqXpN9PVNnysMXtOgBtB-1" source="WDJ4V5Xe79Q_eSl3a1zP-52" target="WDJ4V5Xe79Q_eSl3a1zP-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="659" as="sourcePoint"/>
+            <mxPoint x="159" y="659" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-59" value="线下" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="WDJ4V5Xe79Q_eSl3a1zP-58">
+          <mxGeometry y="-2" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
