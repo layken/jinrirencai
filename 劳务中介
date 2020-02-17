@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-17T08:43:08.384Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="AZD82TCJ1Q5K3GfVhW4f" version="12.7.0" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-02-17T08:43:27.331Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="SiC0ytSmeIx_92zUfN6d" version="12.7.0" type="github" pages="9">
   <diagram id="SWYcM2koVF174TYnn-VU" name="海聘">
     <mxGraphModel dx="946" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -780,10 +780,13 @@
             <mxPoint x="240" y="180" as="sourcePoint"/>
             <mxPoint x="-110" y="430" as="targetPoint"/>
             <Array as="points">
-              <mxPoint x="230" y="340"/>
-              <mxPoint x="675" y="340"/>
+              <mxPoint x="230" y="350"/>
+              <mxPoint x="675" y="350"/>
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Gcwr70ZSfvutgXLhTVH--56" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="502" y="428" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
