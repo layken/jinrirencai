@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-17T10:18:59.901Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="9LHfcXNc0bbx6rAdvZ5I" version="12.7.0" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-02-17T10:19:14.410Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="qCV6BkGn6BPTaOaObm9I" version="12.7.0" type="github" pages="9">
   <diagram id="SWYcM2koVF174TYnn-VU" name="海聘">
     <mxGraphModel dx="946" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -911,6 +911,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="847" y="430" as="sourcePoint"/>
             <mxPoint x="847" y="450" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-12" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="zqXpN9PVNnysMXtOgBtB-1" source="WDJ4V5Xe79Q_eSl3a1zP-5" target="WDJ4V5Xe79Q_eSl3a1zP-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="505" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-5" value="定制海报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
