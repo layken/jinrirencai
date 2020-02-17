@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-17T06:27:47.138Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="ifMvkVlNoxR3farBgh7D" version="12.7.0" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-02-17T06:30:37.887Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="TyHfQ1kPeUxs0Jd9Gcdf" version="12.7.0" type="github" pages="9">
   <diagram id="SWYcM2koVF174TYnn-VU" name="海聘">
     <mxGraphModel dx="946" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -546,12 +546,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Axq6RjY3tdIcNofcbAh0" name="（详细）代理模式服务流程">
-    <mxGraphModel dx="1773" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="zqXpN9PVNnysMXtOgBtB-0"/>
         <mxCell id="zqXpN9PVNnysMXtOgBtB-1" parent="zqXpN9PVNnysMXtOgBtB-0"/>
         <mxCell id="Gcwr70ZSfvutgXLhTVH--18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
-          <mxGeometry x="440" y="12" width="280" height="218" as="geometry"/>
+          <mxGeometry x="440" y="12" width="280" height="238" as="geometry"/>
         </mxCell>
         <mxCell id="6nn3vfBwH7b0b3tNV7hz-0" value="县代理" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;dashed=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
           <mxGeometry x="160" y="20" width="100" height="40" as="geometry"/>
@@ -631,7 +631,7 @@
           <mxGeometry x="770" y="150" width="60" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="WMWtKqOkNdliMJDdgf9p-15" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
-          <mxGeometry x="-190" y="230" width="1220" height="10" as="geometry"/>
+          <mxGeometry x="-190" y="250" width="1220" height="10" as="geometry"/>
         </mxCell>
         <mxCell id="WMWtKqOkNdliMJDdgf9p-16" value="商务合作阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
           <mxGeometry x="-200" y="130" width="80" height="20" as="geometry"/>
@@ -669,7 +669,7 @@
             <mxPoint x="560" y="144.5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gcwr70ZSfvutgXLhTVH--7" value="培训" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+        <mxCell id="Gcwr70ZSfvutgXLhTVH--7" value="记账/备案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
           <mxGeometry x="630" y="170" width="60" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="Gcwr70ZSfvutgXLhTVH--8" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="zqXpN9PVNnysMXtOgBtB-1" source="Gcwr70ZSfvutgXLhTVH--2" target="Gcwr70ZSfvutgXLhTVH--7">
@@ -690,14 +690,17 @@
         <mxCell id="Gcwr70ZSfvutgXLhTVH--12" value="缴纳加盟费，签订合同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
           <mxGeometry x="352" y="90" width="80" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="Gcwr70ZSfvutgXLhTVH--13" value="招收县代理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+        <mxCell id="Gcwr70ZSfvutgXLhTVH--13" value="组建县代理培训/服务队伍" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
           <mxGeometry x="320" y="125" width="80" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="Gcwr70ZSfvutgXLhTVH--14" value="组建培训队伍" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+        <mxCell id="Gcwr70ZSfvutgXLhTVH--14" value="招收县代理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
           <mxGeometry x="320" y="160" width="80" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="Gcwr70ZSfvutgXLhTVH--15" value="组建培训队伍" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
           <mxGeometry x="320" y="202" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="Gcwr70ZSfvutgXLhTVH--20" value="组建市代理&lt;br&gt;服务团队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="480" y="210" width="80" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
