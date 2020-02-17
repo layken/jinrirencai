@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-17T08:55:40.434Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="J_AnbtthvuhrGX_WAtr9" version="12.7.0" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-02-17T08:56:04.365Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="bbHPZzJr_XGXwIA6xIOb" version="12.7.0" type="github" pages="9">
   <diagram id="SWYcM2koVF174TYnn-VU" name="海聘">
     <mxGraphModel dx="946" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -821,7 +821,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gcwr70ZSfvutgXLhTVH--70" value="申请合作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+        <mxCell id="Gcwr70ZSfvutgXLhTVH--70" value="当地资源合作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
           <mxGeometry x="150" y="290" width="70" height="30" as="geometry"/>
         </mxCell>
       </root>
