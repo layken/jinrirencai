@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-17T08:50:51.053Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="rQSkZUPYkIF3bmS8upRv" version="12.7.0" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-02-17T08:51:29.488Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="OjYMBv3cZSODlFAlaPIL" version="12.7.0" type="github" pages="9">
   <diagram id="SWYcM2koVF174TYnn-VU" name="海聘">
     <mxGraphModel dx="946" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -625,7 +625,7 @@
           <mxGeometry x="770" y="150" width="60" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="WMWtKqOkNdliMJDdgf9p-15" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
-          <mxGeometry x="-180" y="350" width="1220" height="10" as="geometry"/>
+          <mxGeometry x="-175" y="370" width="1220" height="10" as="geometry"/>
         </mxCell>
         <mxCell id="WMWtKqOkNdliMJDdgf9p-16" value="商务合作阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
           <mxGeometry x="-200" y="130" width="80" height="20" as="geometry"/>
@@ -774,8 +774,8 @@
             <mxPoint x="240" y="180" as="sourcePoint"/>
             <mxPoint x="-110" y="430" as="targetPoint"/>
             <Array as="points">
-              <mxPoint x="230" y="350"/>
-              <mxPoint x="675" y="350"/>
+              <mxPoint x="230" y="370"/>
+              <mxPoint x="675" y="370"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -802,6 +802,9 @@
         </mxCell>
         <mxCell id="Gcwr70ZSfvutgXLhTVH--65" value="获取县代理账号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
           <mxGeometry x="175" y="310" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="Gcwr70ZSfvutgXLhTVH--66" value="获得市代理账号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="325" y="330" width="80" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
