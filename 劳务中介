@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-17T03:54:11.896Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="Fcs_BoW6uP_3lcMeK-V-" version="12.7.0" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-02-17T04:24:32.010Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="zHZoDY84BprKHm-5EUq0" version="12.7.0" type="github" pages="7">
   <diagram id="SWYcM2koVF174TYnn-VU" name="海聘">
-    <mxGraphModel dx="946" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -546,16 +546,56 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Axq6RjY3tdIcNofcbAh0" name="（详细）代理模式服务流程">
-    <mxGraphModel dx="946" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="zqXpN9PVNnysMXtOgBtB-0"/>
         <mxCell id="zqXpN9PVNnysMXtOgBtB-1" parent="zqXpN9PVNnysMXtOgBtB-0"/>
-        <mxCell id="_Pwp1x_pWe69EvDGo0Of-0" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;dashed=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
-          <mxGeometry x="30" y="20" width="100" height="300" as="geometry"/>
+        <mxCell id="6nn3vfBwH7b0b3tNV7hz-0" value="县代理" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;dashed=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="160" y="20" width="100" height="300" as="geometry"/>
         </mxCell>
-        <mxCell id="BUdUw4Li_SlU-w5v1LCJ-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
-          <mxGeometry x="30" y="340" width="590" height="8" as="geometry"/>
+        <mxCell id="WzrHhJt8QTCmEzzCS4G2-0" value="市代理" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;dashed=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="280" y="20" width="100" height="300" as="geometry"/>
         </mxCell>
+        <mxCell id="WzrHhJt8QTCmEzzCS4G2-1" value="省代理" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;dashed=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="400" y="20" width="100" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="WzrHhJt8QTCmEzzCS4G2-2" value="贵阳分公司" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;dashed=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="520" y="20" width="100" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="WzrHhJt8QTCmEzzCS4G2-5" value="深圳 海聘" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;dashed=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="640" y="20" width="100" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="WzrHhJt8QTCmEzzCS4G2-6" value="工厂" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;dashed=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="760" y="20" width="100" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="pAq_4EZwbd9AXPTXz9Vg-1" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="50" y="20" width="20" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="pAq_4EZwbd9AXPTXz9Vg-2" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="-40" y="20" width="20" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="pAq_4EZwbd9AXPTXz9Vg-3" value="工人" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="-20" y="32" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="pAq_4EZwbd9AXPTXz9Vg-4" value="县代理市场人员" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="63" y="32" width="100" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_moDnR3-vNH6Zgu7DtCU" name="市代理流程">
+    <mxGraphModel dx="946" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ZQm3z-FqUdwqMVMHlGvw-0"/>
+        <mxCell id="ZQm3z-FqUdwqMVMHlGvw-1" parent="ZQm3z-FqUdwqMVMHlGvw-0"/>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nptlmk0HSE8T4qiG7Pye" name="县代理流程">
+    <mxGraphModel dx="946" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="49CgtEyO4Tqkx7qD0rRO-0"/>
+        <mxCell id="49CgtEyO4Tqkx7qD0rRO-1" parent="49CgtEyO4Tqkx7qD0rRO-0"/>
       </root>
     </mxGraphModel>
   </diagram>
