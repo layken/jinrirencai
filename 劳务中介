@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-17T09:07:46.689Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="Q2vZRzc3i_y_7UcklaRa" version="12.7.0" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-02-17T09:14:10.647Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="bLvRA6M0BgdY7BMvVMul" version="12.7.0" type="github" pages="9">
   <diagram id="SWYcM2koVF174TYnn-VU" name="海聘">
     <mxGraphModel dx="946" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -401,7 +401,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="20uc-e4VxGm9rmAsQZTe" name="（简要）代理模式服务流程">
-    <mxGraphModel dx="946" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="EfGpaEFlnGB75iuzG09--0"/>
         <mxCell id="EfGpaEFlnGB75iuzG09--1" parent="EfGpaEFlnGB75iuzG09--0"/>
@@ -861,7 +861,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a4lrlkQvlHWmzyjZSQP1-0" value="查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
-          <mxGeometry x="-85" y="200" width="70" height="30" as="geometry"/>
+          <mxGeometry x="-85" y="400" width="70" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="a4lrlkQvlHWmzyjZSQP1-2" value="推广报名阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
           <mxGeometry x="-200" y="410" width="80" height="20" as="geometry"/>
@@ -878,6 +878,14 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="-5W_Uuu5IOo50HSeD6oi" name="省代理流程">
+    <mxGraphModel dx="1186" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="iPKOW9eX_ev-nwfk_PSW-0"/>
+        <mxCell id="iPKOW9eX_ev-nwfk_PSW-1" parent="iPKOW9eX_ev-nwfk_PSW-0"/>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="_moDnR3-vNH6Zgu7DtCU" name="市代理流程">
     <mxGraphModel dx="946" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -891,14 +899,6 @@
       <root>
         <mxCell id="49CgtEyO4Tqkx7qD0rRO-0"/>
         <mxCell id="49CgtEyO4Tqkx7qD0rRO-1" parent="49CgtEyO4Tqkx7qD0rRO-0"/>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="-5W_Uuu5IOo50HSeD6oi" name="详细">
-    <mxGraphModel dx="946" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="iPKOW9eX_ev-nwfk_PSW-0"/>
-        <mxCell id="iPKOW9eX_ev-nwfk_PSW-1" parent="iPKOW9eX_ev-nwfk_PSW-0"/>
       </root>
     </mxGraphModel>
   </diagram>
