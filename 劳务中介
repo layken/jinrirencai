@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-17T11:41:33.048Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="15RmdjF-9khJxdXyb4SR" version="12.7.0" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-02-17T11:49:21.488Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="4fMYtC3dNvkUdgpfeZrt" version="12.7.0" type="github" pages="9">
   <diagram id="SWYcM2koVF174TYnn-VU" name="海聘">
     <mxGraphModel dx="946" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1084,14 +1084,16 @@
             <mxPoint x="1" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-68" value="联系工人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
-          <mxGeometry x="159" y="960" width="51" height="30" as="geometry"/>
+        <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-84" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="zqXpN9PVNnysMXtOgBtB-1" source="WDJ4V5Xe79Q_eSl3a1zP-69" target="WDJ4V5Xe79Q_eSl3a1zP-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="775" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-69" value="确认报名和信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
-          <mxGeometry x="229" y="960" width="51" height="30" as="geometry"/>
+          <mxGeometry x="150" y="760" width="51" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-70" value="出发前&lt;br&gt;面试/体检" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
-          <mxGeometry x="-80" y="950" width="60" height="30" as="geometry"/>
+          <mxGeometry x="-80" y="810" width="60" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-71" value="统计报名信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
           <mxGeometry x="149" y="700" width="60" height="30" as="geometry"/>
@@ -1122,6 +1124,33 @@
         </mxCell>
         <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-78" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
           <mxGeometry x="-200" y="740" width="1220" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-80" value="确认入职准备工作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="149" y="810" width="51" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-81" value="通知出发时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="149" y="860" width="51" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-82" value="确认信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="-80" y="760" width="60" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-85" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3BexitX%3D0.5%3BexitY%3D1%3BexitDx%3D0%3BexitDy%3D0%3BentryX%3D0.5%3BentryY%3D0%3BentryDx%3D0%3BentryDy%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22245%22%20y%3D%22462%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22245%22%20y%3D%22476%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="244" y="983" width="20" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-87" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="zqXpN9PVNnysMXtOgBtB-1" source="WDJ4V5Xe79Q_eSl3a1zP-69" target="WDJ4V5Xe79Q_eSl3a1zP-80">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-200" y="1200" as="sourcePoint"/>
+            <mxPoint x="-150" y="1150" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-88" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="zqXpN9PVNnysMXtOgBtB-1" source="WDJ4V5Xe79Q_eSl3a1zP-80" target="WDJ4V5Xe79Q_eSl3a1zP-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="785" as="sourcePoint"/>
+            <mxPoint x="-10" y="785" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-89" value="系统登记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="228.5" y="860" width="51" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
