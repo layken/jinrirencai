@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-17T09:14:46.632Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="ptyb_KZIlbqXJ7vSxdP5" version="12.7.0" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-02-17T09:32:12.248Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="pQ9MoW9YclX74XhAU5o9" version="12.7.0" type="github" pages="9">
   <diagram id="SWYcM2koVF174TYnn-VU" name="海聘">
     <mxGraphModel dx="946" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -318,7 +318,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pjc3T9rgZB9D7t1we9DZ" name="贵州代理-组织结构">
-    <mxGraphModel dx="946" dy="568" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="596" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5igVClGA2nr5b0qWqUb--0"/>
         <mxCell id="5igVClGA2nr5b0qWqUb--1" parent="5igVClGA2nr5b0qWqUb--0"/>
@@ -874,6 +874,27 @@
         </mxCell>
         <mxCell id="a4lrlkQvlHWmzyjZSQP1-5" value="费用结算结算" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
           <mxGeometry x="-200" y="720" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="9OBax1l1fMAus41Jm7bp-0" value="发布招工需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="910" y="400" width="60" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="9OBax1l1fMAus41Jm7bp-1" value="应标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="770" y="400" width="60" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="9OBax1l1fMAus41Jm7bp-2" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="414.5" as="sourcePoint"/>
+            <mxPoint x="910" y="414.5" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9OBax1l1fMAus41Jm7bp-4" value="录入招工需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="770" y="460" width="60" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="9OBax1l1fMAus41Jm7bp-7" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="zqXpN9PVNnysMXtOgBtB-1" source="9OBax1l1fMAus41Jm7bp-1" target="9OBax1l1fMAus41Jm7bp-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="925" y="570" as="sourcePoint"/>
+            <mxPoint x="975" y="520" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
