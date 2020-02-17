@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-17T03:30:22.316Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="eWBbznDCe5fxGjtZwd5T" version="12.7.0" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-02-17T03:54:11.896Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="Fcs_BoW6uP_3lcMeK-V-" version="12.7.0" type="github" pages="5">
   <diagram id="SWYcM2koVF174TYnn-VU" name="海聘">
     <mxGraphModel dx="946" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -421,8 +421,8 @@
         </mxCell>
         <mxCell id="9lKct5VHu5v3gL8g6Uxy-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EfGpaEFlnGB75iuzG09--1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="439" y="500" as="sourcePoint"/>
-            <mxPoint x="439" y="560" as="targetPoint"/>
+            <mxPoint x="422" y="500" as="sourcePoint"/>
+            <mxPoint x="422" y="560" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="9lKct5VHu5v3gL8g6Uxy-7" value="3 招募培训，赋能代理招工能力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="9lKct5VHu5v3gL8g6Uxy-6">
