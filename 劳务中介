@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-17T09:04:30.607Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="krw7SPJIvT4E-nUCaqAF" version="12.7.0" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-02-17T09:07:46.689Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="Q2vZRzc3i_y_7UcklaRa" version="12.7.0" type="github" pages="9">
   <diagram id="SWYcM2koVF174TYnn-VU" name="海聘">
     <mxGraphModel dx="946" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -863,8 +863,17 @@
         <mxCell id="a4lrlkQvlHWmzyjZSQP1-0" value="查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
           <mxGeometry x="-85" y="200" width="70" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="a4lrlkQvlHWmzyjZSQP1-2" value="工人报名阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+        <mxCell id="a4lrlkQvlHWmzyjZSQP1-2" value="推广报名阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
           <mxGeometry x="-200" y="410" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="a4lrlkQvlHWmzyjZSQP1-3" value="服务工人阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="-200" y="520" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="a4lrlkQvlHWmzyjZSQP1-4" value="追踪增值阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="-200" y="640" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="a4lrlkQvlHWmzyjZSQP1-5" value="费用结算结算" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="-200" y="720" width="80" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
