@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-17T08:43:58.708Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="H8Jl05PQROEnzK7DaWKe" version="12.7.0" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-02-17T08:45:04.909Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="X3pXjPZiC64TH33YIpq3" version="12.7.0" type="github" pages="9">
   <diagram id="SWYcM2koVF174TYnn-VU" name="海聘">
     <mxGraphModel dx="946" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -787,6 +787,15 @@
         </mxCell>
         <mxCell id="Gcwr70ZSfvutgXLhTVH--56" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
           <mxGeometry x="502" y="428" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Gcwr70ZSfvutgXLhTVH--58" value="培训县代理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="330" y="130" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="Gcwr70ZSfvutgXLhTVH--59" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="zqXpN9PVNnysMXtOgBtB-1" source="Gcwr70ZSfvutgXLhTVH--24" target="Gcwr70ZSfvutgXLhTVH--58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="115" as="sourcePoint"/>
+            <mxPoint x="335" y="115" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
