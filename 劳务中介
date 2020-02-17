@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-17T09:32:12.248Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="pQ9MoW9YclX74XhAU5o9" version="12.7.0" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-02-17T09:51:57.960Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="5oHjy1Zdqzi50ln8iO26" version="12.7.0" type="github" pages="9">
   <diagram id="SWYcM2koVF174TYnn-VU" name="海聘">
     <mxGraphModel dx="946" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -876,24 +876,41 @@
           <mxGeometry x="-200" y="720" width="80" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="9OBax1l1fMAus41Jm7bp-0" value="发布招工需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
-          <mxGeometry x="910" y="400" width="60" height="30" as="geometry"/>
+          <mxGeometry x="910" y="390" width="60" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="9OBax1l1fMAus41Jm7bp-1" value="应标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
-          <mxGeometry x="770" y="400" width="60" height="30" as="geometry"/>
+          <mxGeometry x="807" y="390" width="60" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="9OBax1l1fMAus41Jm7bp-2" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+        <mxCell id="9OBax1l1fMAus41Jm7bp-2" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="zqXpN9PVNnysMXtOgBtB-1" source="9OBax1l1fMAus41Jm7bp-1" target="9OBax1l1fMAus41Jm7bp-0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="830" y="414.5" as="sourcePoint"/>
             <mxPoint x="910" y="414.5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="9OBax1l1fMAus41Jm7bp-4" value="录入招工需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
-          <mxGeometry x="770" y="460" width="60" height="30" as="geometry"/>
+          <mxGeometry x="807" y="440" width="60" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="9OBax1l1fMAus41Jm7bp-7" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="zqXpN9PVNnysMXtOgBtB-1" source="9OBax1l1fMAus41Jm7bp-1" target="9OBax1l1fMAus41Jm7bp-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="925" y="570" as="sourcePoint"/>
             <mxPoint x="975" y="520" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-0" value="查看招工需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="210" y="440" width="60" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-4" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="zqXpN9PVNnysMXtOgBtB-1" source="WDJ4V5Xe79Q_eSl3a1zP-1" target="WDJ4V5Xe79Q_eSl3a1zP-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="455" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-1" value="发出通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zqXpN9PVNnysMXtOgBtB-1">
+          <mxGeometry x="730" y="440" width="60" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-2" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="zqXpN9PVNnysMXtOgBtB-1" source="9OBax1l1fMAus41Jm7bp-4" target="WDJ4V5Xe79Q_eSl3a1zP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="847" y="430" as="sourcePoint"/>
+            <mxPoint x="847" y="450" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
       </root>
