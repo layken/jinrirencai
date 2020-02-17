@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-17T11:30:29.692Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="IkZ0EiwPqymrjs8BaNvb" version="12.7.0" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-02-17T11:31:25.297Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="2QmEf0XqIu-Gh4CVvYeF" version="12.7.0" type="github" pages="9">
   <diagram id="SWYcM2koVF174TYnn-VU" name="海聘">
     <mxGraphModel dx="946" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1066,6 +1066,22 @@
         <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-62" value="在线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="WDJ4V5Xe79Q_eSl3a1zP-60">
           <mxGeometry x="-0.4319" y="-3" relative="1" as="geometry">
             <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-63" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="zqXpN9PVNnysMXtOgBtB-1" source="WDJ4V5Xe79Q_eSl3a1zP-1" target="WDJ4V5Xe79Q_eSl3a1zP-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="457" as="sourcePoint"/>
+            <mxPoint x="280" y="457" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="730" y="400"/>
+              <mxPoint x="-100" y="400"/>
+              <mxPoint x="-100" y="491"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WDJ4V5Xe79Q_eSl3a1zP-64" value="用户已经授权登录过，直接推送给工人" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="WDJ4V5Xe79Q_eSl3a1zP-63">
+          <mxGeometry x="0.0929" y="-3" relative="1" as="geometry">
+            <mxPoint x="1" as="offset"/>
           </mxGeometry>
         </mxCell>
       </root>
