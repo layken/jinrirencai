@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-02T19:18:20.662Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="2zIDuE6clFI2Uu86Aucn" version="12.7.9" type="github" pages="6">
+<mxfile host="www.draw.io" modified="2020-03-02T19:20:54.248Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="hlNLsqdzcdIPFaWcCHPu" version="12.7.9" type="github" pages="6">
   <diagram id="2DhSJaCOvhce-CJETL_g" name="运营平台">
     <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1309,7 +1309,7 @@
         <mxCell id="rWAsI1HoyPJt2KJDRSIp-7" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="rWAsI1HoyPJt2KJDRSIp-1">
           <mxGeometry x="330" y="260" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rWAsI1HoyPJt2KJDRSIp-11" value="蓝领模型" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="rWAsI1HoyPJt2KJDRSIp-1">
+        <mxCell id="rWAsI1HoyPJt2KJDRSIp-11" value="2 优化&lt;br&gt;蓝领模型" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="rWAsI1HoyPJt2KJDRSIp-1">
           <mxGeometry x="315" y="310" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rWAsI1HoyPJt2KJDRSIp-12" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="rWAsI1HoyPJt2KJDRSIp-1">
@@ -1334,7 +1334,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rWAsI1HoyPJt2KJDRSIp-26" value="2 基于模型数据精准投放" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="rWAsI1HoyPJt2KJDRSIp-19">
+        <mxCell id="rWAsI1HoyPJt2KJDRSIp-26" value="3 基于模型数据精准投放" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="rWAsI1HoyPJt2KJDRSIp-19">
           <mxGeometry x="-0.5341" y="37" relative="1" as="geometry">
             <mxPoint x="23.03" y="-47.01" as="offset" />
           </mxGeometry>
@@ -1359,6 +1359,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="rWAsI1HoyPJt2KJDRSIp-29" value="5 推广+运营结合后，放量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="rWAsI1HoyPJt2KJDRSIp-24">
+          <mxGeometry x="-0.6863" y="42" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rWAsI1HoyPJt2KJDRSIp-25" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.017;exitY=0.788;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="rWAsI1HoyPJt2KJDRSIp-1" source="rWAsI1HoyPJt2KJDRSIp-11" target="rWAsI1HoyPJt2KJDRSIp-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="503" as="sourcePoint" />
@@ -1369,11 +1374,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rWAsI1HoyPJt2KJDRSIp-27" value="1、漏斗型推广" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rWAsI1HoyPJt2KJDRSIp-1">
+        <mxCell id="rWAsI1HoyPJt2KJDRSIp-27" value="1、漏斗型推广" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF3333;" vertex="1" parent="rWAsI1HoyPJt2KJDRSIp-1">
           <mxGeometry x="200" y="230" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rWAsI1HoyPJt2KJDRSIp-28" value="运营" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rWAsI1HoyPJt2KJDRSIp-1">
-          <mxGeometry x="240" y="458" width="40" height="20" as="geometry" />
+        <mxCell id="rWAsI1HoyPJt2KJDRSIp-28" value="4 用户运营，粉丝运营，用户传播" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF3333;" vertex="1" parent="rWAsI1HoyPJt2KJDRSIp-1">
+          <mxGeometry x="205" y="453" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
