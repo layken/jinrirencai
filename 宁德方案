@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-02T19:13:11.191Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="--slXpQCT6YXb9SaoFWQ" version="12.7.9" type="github" pages="6">
+<mxfile host="www.draw.io" modified="2020-03-02T19:18:20.662Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="2zIDuE6clFI2Uu86Aucn" version="12.7.9" type="github" pages="6">
   <diagram id="2DhSJaCOvhce-CJETL_g" name="运营平台">
     <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1334,7 +1334,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rWAsI1HoyPJt2KJDRSIp-21" value="第一阶段" style="endArrow=classic;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.017;entryY=0.625;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryPerimeter=0;" edge="1" parent="rWAsI1HoyPJt2KJDRSIp-1" source="rWAsI1HoyPJt2KJDRSIp-3" target="rWAsI1HoyPJt2KJDRSIp-11">
+        <mxCell id="rWAsI1HoyPJt2KJDRSIp-26" value="2 基于模型数据精准投放" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="rWAsI1HoyPJt2KJDRSIp-19">
+          <mxGeometry x="-0.5341" y="37" relative="1" as="geometry">
+            <mxPoint x="23.03" y="-47.01" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rWAsI1HoyPJt2KJDRSIp-21" value="1&amp;nbsp;" style="endArrow=classic;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.017;entryY=0.625;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryPerimeter=0;" edge="1" parent="rWAsI1HoyPJt2KJDRSIp-1" source="rWAsI1HoyPJt2KJDRSIp-3" target="rWAsI1HoyPJt2KJDRSIp-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="160" as="sourcePoint" />
             <mxPoint x="220" y="360" as="targetPoint" />
@@ -1363,6 +1368,12 @@
               <mxPoint x="190" y="580" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rWAsI1HoyPJt2KJDRSIp-27" value="1、漏斗型推广" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rWAsI1HoyPJt2KJDRSIp-1">
+          <mxGeometry x="200" y="230" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rWAsI1HoyPJt2KJDRSIp-28" value="运营" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rWAsI1HoyPJt2KJDRSIp-1">
+          <mxGeometry x="240" y="458" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
