@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-03T01:48:48.889Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="w0HrftMeFJ_RJvcav2QV" version="12.7.9" type="github" pages="6">
+<mxfile host="www.draw.io" modified="2020-03-03T01:49:11.480Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="N9XC2A7Cknut3mYlMzqD" version="12.7.9" type="github" pages="6">
   <diagram id="2DhSJaCOvhce-CJETL_g" name="运营平台">
     <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1415,30 +1415,6 @@
         </mxCell>
         <mxCell id="rWAsI1HoyPJt2KJDRSIp-44" value="反漏斗行运营" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;fontStyle=1;fontSize=16;" vertex="1" parent="rWAsI1HoyPJt2KJDRSIp-1">
           <mxGeometry x="295" y="620" width="105" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="rWAsI1HoyPJt2KJDRSIp-46" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fontColor=#FF3333;" vertex="1" parent="rWAsI1HoyPJt2KJDRSIp-1">
-          <mxGeometry x="230" y="710" width="300" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="rWAsI1HoyPJt2KJDRSIp-47" value="" style="endArrow=classic;html=1;fontSize=16;fontColor=#FF3333;" edge="1" parent="rWAsI1HoyPJt2KJDRSIp-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="930" as="sourcePoint" />
-            <mxPoint x="471.21212121212125" y="800" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rWAsI1HoyPJt2KJDRSIp-50" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=55;rounded=1;fontSize=16;fontColor=#FF3333;rotation=90;" vertex="1" parent="rWAsI1HoyPJt2KJDRSIp-1">
-          <mxGeometry x="850" y="680" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="rWAsI1HoyPJt2KJDRSIp-51" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;fontColor=#FF3333;" vertex="1" parent="rWAsI1HoyPJt2KJDRSIp-1">
-          <mxGeometry x="317" y="766" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="rWAsI1HoyPJt2KJDRSIp-52" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=55;rounded=1;fontSize=16;fontColor=#FF3333;rotation=-180;" vertex="1" parent="rWAsI1HoyPJt2KJDRSIp-1">
-          <mxGeometry x="860" y="830" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="rWAsI1HoyPJt2KJDRSIp-53" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=55;rounded=1;fontSize=16;fontColor=#FF3333;rotation=-90;" vertex="1" parent="rWAsI1HoyPJt2KJDRSIp-1">
-          <mxGeometry x="650" y="840" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="rWAsI1HoyPJt2KJDRSIp-54" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=55;rounded=1;fontSize=16;fontColor=#FF3333;rotation=0;" vertex="1" parent="rWAsI1HoyPJt2KJDRSIp-1">
-          <mxGeometry x="650" y="680" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
