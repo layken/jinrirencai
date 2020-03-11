@@ -1,0 +1,25 @@
+<mxfile host="www.draw.io" modified="2020-03-11T02:24:47.986Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="ayogTmOC7WqFcesOdfFW" version="12.8.2" type="github">
+  <diagram id="KpMY41GrqvHkRm1AB-zd" name="第 1 页">
+    <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YyOLekmuATzYL3bmThHH-1" value="工人" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YyOLekmuATzYL3bmThHH-4" value="我的打工网" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YyOLekmuATzYL3bmThHH-5" value="打工经纪人" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YyOLekmuATzYL3bmThHH-7" value="劳务公司" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YyOLekmuATzYL3bmThHH-8" value="工厂" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="642" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
