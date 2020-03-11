@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-11T02:41:40.729Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="XGPFLOLZcAfZPnBsz7cU" version="12.8.2" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-03-11T03:00:10.438Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="p4H3aBHlT95-4FhnDVWn" version="12.8.2" type="github" pages="2">
   <diagram id="KpMY41GrqvHkRm1AB-zd" name="第 1 页">
     <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,7 +118,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="V89PHuehzQ5ucurganZc" name="第 2 页">
-    <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="K13nYzt3VnExTpn9mDYy-0" />
         <mxCell id="K13nYzt3VnExTpn9mDYy-1" parent="K13nYzt3VnExTpn9mDYy-0" />
@@ -127,7 +127,7 @@
         </mxCell>
         <mxCell id="sEiXvd5Ooeo2f9BVeQBo-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;dashed=1;" edge="1" parent="K13nYzt3VnExTpn9mDYy-1" source="K13nYzt3VnExTpn9mDYy-2" target="K13nYzt3VnExTpn9mDYy-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="80" as="targetPoint" />
+            <mxPoint x="600" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sEiXvd5Ooeo2f9BVeQBo-4" value="全流程服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="sEiXvd5Ooeo2f9BVeQBo-1">
@@ -137,16 +137,16 @@
         </mxCell>
         <mxCell id="sEiXvd5Ooeo2f9BVeQBo-6" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="K13nYzt3VnExTpn9mDYy-1" source="K13nYzt3VnExTpn9mDYy-2" target="K13nYzt3VnExTpn9mDYy-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="80" as="targetPoint" />
+            <mxPoint x="320" y="120" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="40" y="80" />
-              <mxPoint x="40" y="380" />
+              <mxPoint x="180" y="120" />
+              <mxPoint x="180" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sEiXvd5Ooeo2f9BVeQBo-7" value="馒头直聘&lt;br&gt;店长直聘" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="sEiXvd5Ooeo2f9BVeQBo-6">
           <mxGeometry x="-0.1207" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sEiXvd5Ooeo2f9BVeQBo-8" value="信息撮合" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="sEiXvd5Ooeo2f9BVeQBo-6">
@@ -154,31 +154,115 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="sEiXvd5Ooeo2f9BVeQBo-14" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="K13nYzt3VnExTpn9mDYy-1" source="K13nYzt3VnExTpn9mDYy-2" target="K13nYzt3VnExTpn9mDYy-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="105" />
+              <mxPoint x="80" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEiXvd5Ooeo2f9BVeQBo-15" value="工派派&lt;br&gt;工厂对工人，工人推荐有奖金" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="sEiXvd5Ooeo2f9BVeQBo-14">
+          <mxGeometry x="-0.0351" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEiXvd5Ooeo2f9BVeQBo-17" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="K13nYzt3VnExTpn9mDYy-1" source="sEiXvd5Ooeo2f9BVeQBo-16" target="K13nYzt3VnExTpn9mDYy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="K13nYzt3VnExTpn9mDYy-2" value="工人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="K13nYzt3VnExTpn9mDYy-1">
-          <mxGeometry x="180" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sEiXvd5Ooeo2f9BVeQBo-19" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="K13nYzt3VnExTpn9mDYy-1" source="sEiXvd5Ooeo2f9BVeQBo-16" target="K13nYzt3VnExTpn9mDYy-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" />
+              <mxPoint x="800" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEiXvd5Ooeo2f9BVeQBo-20" value="工务园" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="sEiXvd5Ooeo2f9BVeQBo-19">
+          <mxGeometry x="-0.0571" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEiXvd5Ooeo2f9BVeQBo-30" value="校企合作&lt;br&gt;定向培养&lt;br&gt;贴近市场" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="sEiXvd5Ooeo2f9BVeQBo-19">
+          <mxGeometry x="-0.5673" y="-50" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEiXvd5Ooeo2f9BVeQBo-33" value="招工快&lt;br&gt;免费招工&lt;br&gt;留住工人&lt;br&gt;系统免费" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="sEiXvd5Ooeo2f9BVeQBo-19">
+          <mxGeometry x="0.6082" y="-42" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEiXvd5Ooeo2f9BVeQBo-16" value="学校/学生" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="K13nYzt3VnExTpn9mDYy-1">
+          <mxGeometry x="400" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K13nYzt3VnExTpn9mDYy-6" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="K13nYzt3VnExTpn9mDYy-1" source="K13nYzt3VnExTpn9mDYy-3" target="K13nYzt3VnExTpn9mDYy-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sEiXvd5Ooeo2f9BVeQBo-11" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="K13nYzt3VnExTpn9mDYy-1" source="sEiXvd5Ooeo2f9BVeQBo-25" target="K13nYzt3VnExTpn9mDYy-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="325" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="K13nYzt3VnExTpn9mDYy-3" value="工头（中介）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="K13nYzt3VnExTpn9mDYy-1">
-          <mxGeometry x="180" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K13nYzt3VnExTpn9mDYy-8" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="K13nYzt3VnExTpn9mDYy-1" source="K13nYzt3VnExTpn9mDYy-5" target="K13nYzt3VnExTpn9mDYy-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K13nYzt3VnExTpn9mDYy-5" value="劳务公司" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="K13nYzt3VnExTpn9mDYy-1">
-          <mxGeometry x="180" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K13nYzt3VnExTpn9mDYy-7" value="工厂" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="K13nYzt3VnExTpn9mDYy-1">
-          <mxGeometry x="180" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sEiXvd5Ooeo2f9BVeQBo-3" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="K13nYzt3VnExTpn9mDYy-1" source="K13nYzt3VnExTpn9mDYy-11" target="K13nYzt3VnExTpn9mDYy-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="280" as="targetPoint" />
+            <mxPoint x="640" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K13nYzt3VnExTpn9mDYy-11" value="我的打工网&lt;br&gt;金牌经纪人" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K13nYzt3VnExTpn9mDYy-1">
-          <mxGeometry x="380" y="160" width="80" height="40" as="geometry" />
+        <mxCell id="K13nYzt3VnExTpn9mDYy-11" value="我的打工网&lt;br&gt;金牌经纪人" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K13nYzt3VnExTpn9mDYy-1">
+          <mxGeometry x="600" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sEiXvd5Ooeo2f9BVeQBo-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="K13nYzt3VnExTpn9mDYy-1" source="K13nYzt3VnExTpn9mDYy-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="130" as="sourcePoint" />
+            <mxPoint x="800" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEiXvd5Ooeo2f9BVeQBo-31" value="海量岗位、天天发薪，多份收入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="sEiXvd5Ooeo2f9BVeQBo-21">
+          <mxGeometry x="-0.031" y="-9" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEiXvd5Ooeo2f9BVeQBo-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="K13nYzt3VnExTpn9mDYy-1" source="K13nYzt3VnExTpn9mDYy-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="115" as="sourcePoint" />
+            <mxPoint x="800" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEiXvd5Ooeo2f9BVeQBo-32" value="企业、求职多&lt;br&gt;帮助留人、财务加持" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="sEiXvd5Ooeo2f9BVeQBo-23">
+          <mxGeometry x="-0.155" y="15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEiXvd5Ooeo2f9BVeQBo-25" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;蓝鲸招工&lt;/span&gt;&lt;br style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;以工头为核心&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="K13nYzt3VnExTpn9mDYy-1">
+          <mxGeometry x="280" y="250" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sEiXvd5Ooeo2f9BVeQBo-26" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="K13nYzt3VnExTpn9mDYy-1" source="K13nYzt3VnExTpn9mDYy-3" target="sEiXvd5Ooeo2f9BVeQBo-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="220" as="sourcePoint" />
+            <mxPoint x="400" y="320" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
