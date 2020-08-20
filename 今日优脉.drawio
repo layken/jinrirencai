@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-20T07:40:25.111Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="UmiIpG8V-t64Eaf2DYkb" version="13.6.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-08-20T07:42:46.785Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="CKfioE6MYm9u4Gn4-cf3" version="13.6.2" type="github" pages="12">
   <diagram id="AfJUWFeUKQRLEL0DpcnL" name="Page-1">
     <mxGraphModel dx="823" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1175,11 +1175,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uWtg1xFXMjbrTKQC-qfK-53" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="uWtg1xFXMjbrTKQC-qfK-51">
-          <mxGeometry x="-0.9091" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uWtg1xFXMjbrTKQC-qfK-7" value="是否注册" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;align=center;" vertex="1" parent="tWRUA2oni1lmJwNjxoYr-1">
           <mxGeometry x="570" y="133.25" width="80" height="58.75" as="geometry" />
         </mxCell>
@@ -1210,7 +1205,7 @@
         <mxCell id="uWtg1xFXMjbrTKQC-qfK-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="tWRUA2oni1lmJwNjxoYr-1" source="uWtg1xFXMjbrTKQC-qfK-56" target="uWtg1xFXMjbrTKQC-qfK-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uWtg1xFXMjbrTKQC-qfK-56" value="功能引导&lt;br&gt;怎么赚钱和积分" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;" vertex="1" parent="tWRUA2oni1lmJwNjxoYr-1">
+        <mxCell id="uWtg1xFXMjbrTKQC-qfK-56" value="功能引导&lt;br&gt;怎么赚钱/积分" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;" vertex="1" parent="tWRUA2oni1lmJwNjxoYr-1">
           <mxGeometry x="770" y="145" width="90" height="35" as="geometry" />
         </mxCell>
       </root>
